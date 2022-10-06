@@ -2,7 +2,7 @@
 ## Базис Kotlin
 * Базовый синтаксис
 * ООП и его реализация в котлине
-* Структуры данных
+* DataStructures, Algorythms
 * Gradle
 ## Android studio
 * Основы Kotlin в Android Studio
