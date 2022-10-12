@@ -10,10 +10,11 @@
 ## Вакансия
 Junior Android Developer в CCS
 Стек компании:
+<br />
 * Jetpack Compose, MVVM, Kotlin Coroutines + Flow, Hilt, Room
-Требования:
-* Знание Android SDK (Activity, Fragments, Services, etc), Kotlin.
-* Понимание принципов многопоточного программирования.
-* Опыт работы с Retrofit, Jetpack, Coroutines, Flow, ViewModel, Material Components.
+<br />
+* Знание Android SDK (Activity, Fragments, Services, etc), Kotlin
+* Понимание принципов многопоточного программирования
+* Опыт работы с Retrofit, Jetpack, Coroutines, Flow, ViewModel, Material Components
 
 
